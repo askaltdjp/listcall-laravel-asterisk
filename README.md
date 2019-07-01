@@ -1,31 +1,40 @@
-User Manual
+<p>Last Update: [07/01/2019]</p>
 
-This Laravel application works with Asterisk
-It can make calls
+<p>This Laravel application works with Asterisk
+It can make calls</p>
 
-Adding a new list
+<h2>User Manual</h2>
 
-Visit the Admin Dashboard
-Click on the Import List button in the top right corner. 
-Select the your call list.
-Submit the list
+<h3>Adding a new list</h3>
 
-Exporting list
+<ul>
+<li>Visit the Admin Dashboard</li>
+<li>Click on the Import List button in the top right corner. </li>
+<li>Select the your call list.</li>
+<li>Submit the list</li>
+</ul>
 
-Visit the Admin Dashboard
-Click on Export to CSV
+<h3>Exporting list</h3>
  
-Calling a number
+<ul>
+<li>Visit the Admin Dashboard</li>
+<li>Click on Export to CSV</li>
+</ul>
 
-Visit the Admin Dashboard
-Select the customer and select view
-In the bottom right corner click on Call Customer
+<h3>Calling a number</h3>
 
-Updating a customer
+<ul>
+<li>Visit the Admin Dashboard</li>
+<li>Select the customer and select view</li>
+<li>In the bottom right corner click on Call Customer</li>
+</ul>
 
-Visit the Admin Dashboard
-Select the customer and select view
-Update the fields necessary
-Click on the update button
+<h3>Updating a customer</h3>
 
+<ul>
+<li>Visit the Admin Dashboard</li>
+<li>Select the customer and select view</li>
+<li>Update the fields necessary</li>
+<li>Click on the update button</li>
+</ul>
 
