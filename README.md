@@ -1,6 +1,7 @@
-<p>Last Update: [07/01/2019]</p>
+<p>最終更新日：[07/01/2019]</p>
 
-<p>In the last couple of weeks, we have created a free Customer Relationship Management system that uses the Asterisk Ami function to make calls between customers and extensions. This system can be download from this page and used free of cost. </p>
+<p>アスタリスクのAMI機能を使用して顧客と内線の間で電話をかける無料の顧客関係管理システム(ListCall)です。
+このシステムはこのページからダウンロードでき、無料で使用できます。</p>
 
 <img src="https://www.aska-ltd.jp/uploads/github/customerrelationshipmanagment.png" alt="Asterisk Customer Relationship Management system" />
 
