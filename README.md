@@ -5,7 +5,10 @@
 
 <img src="https://www.aska-ltd.jp/uploads/github/customerrelationshipmanagment.png" alt="Asterisk Customer Relationship Management system" />
 
-<p>If you have any questions or need help with the development of your personal Asterisk Customer Relationship Management system, we are here to help you. You can request a contact inquiry on <a href="https://www.aska-ltd.jp/" title="Aska">our website</a> or give us a call on 06-6131-1267. We have years of Experience with Asterisk and developed systems for a lot of different kinds of businesses in Japan and overseas.</p>
+<p>あなたがあなたのCTI/CRMシステムの開発に関して質問を必要としている、もしくはアドバイズやカスタマイズを必要とするならば、
+当社で行うことができます。
+私たちの<a href="https://www.aska-ltd.jp/" title="Aska">ウェブサイト</a>の連絡先にお問い合わせをいただくか、または私達に06-6131-1267の弊社のセールスエンジニアにご連絡ください。
+当社はAsteriskでで長年の経験を持ち、日本国内でさまざまな種類のビジネスのためのシステムを開発しました。</p>
 
 <h2>User Manual</h2>
 
