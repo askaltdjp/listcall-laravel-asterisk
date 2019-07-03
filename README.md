@@ -10,38 +10,37 @@
 私たちの<a href="https://www.aska-ltd.jp/" title="Aska">ウェブサイト</a>の連絡先にお問い合わせをいただくか、または私達に06-6131-1267の弊社のセールスエンジニアにご連絡ください。
 当社はAsteriskでで長年の経験を持ち、日本国内でさまざまな種類のビジネスのためのシステムを開発しました。</p>
 
-<h2>User Manual</h2>
+<h2>ユーザーマニュアル</h2>
 
-<h3>Adding a new list</h3>
+<h3>新しいリストを追加する</h3>
 
 <ul>
-<li>Visit the Admin Dashboard</li>
-<li>Click on the Import List button in the top right corner. </li>
-<li>Select the your call list.</li>
-<li>Submit the list</li>
+<li>管理ダッシュボードにアクセスする</li>
+<li>右上隅にある[インポートリスト]ボタンをクリックします。</li>
+<li>通話リストを選択します。</li>
 </ul>
 
-<h3>Exporting list</h3>
+<h3>リストをエクスポートする</h3>
  
 <ul>
-<li>Visit the Admin Dashboard</li>
-<li>Click on Export to CSV</li>
+<li>管理ダッシュボードにアクセスする</li>
+<li>CSVにエクスポートをクリック</li>
 </ul>
 
-<h3>Calling a number</h3>
+<h3>電話をかける</h3>
 
 <ul>
-<li>Visit the Admin Dashboard</li>
-<li>Select the customer and select view</li>
-<li>In the bottom right corner click on Call Customer</li>
+<li>管理ダッシュボードにアクセスする</li>
+<li>顧客を選択してビューを選択</li>
+<li>右下隅にある[顧客に電話]をクリックします。</li>
 </ul>
 
-<h3>Updating a customer</h3>
+<h3>顧客を更新する</h3>
 
 <ul>
-<li>Visit the Admin Dashboard</li>
-<li>Select the customer and select view</li>
-<li>Update the fields necessary</li>
-<li>Click on the update button</li>
+<li>管理ダッシュボードにアクセスする</li>
+<li>顧客を選択してビューを選択</li>
+<li>必要なフィールドを更新する</li>
+<li>更新ボタンをクリック</li>
 </ul>
 
