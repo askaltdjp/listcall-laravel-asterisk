@@ -2,6 +2,8 @@
 
 <p>In the last couple of weeks, we have created a free Customer Relationship Management system that uses the Asterisk Ami function to make calls between customers and extensions. This system can be download from this page and used free of cost. </p>
 
+<img src="https://www.aska-ltd.jp/uploads/github/customerrelationshipmanagment.png" alt="Asterisk Customer Relationship Management system" />
+
 <p>If you have any questions or need help with the development of your personal Asterisk Customer Relationship Management system, we are here to help you. You can request a contact inquiry on <a href="https://www.aska-ltd.jp/" title="Aska">our website</a> or give us a call on 06-6131-1267. We have years of Experience with Asterisk and developed systems for a lot of different kinds of businesses in Japan and overseas.</p>
 
 <h2>User Manual</h2>
