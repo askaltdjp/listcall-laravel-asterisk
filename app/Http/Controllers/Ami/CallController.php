@@ -28,7 +28,7 @@ class CallController extends Controller
         /**
          * Open new socker
          */
-        $fp = fsockopen('54.92.121.89', 5038, $errno, $errstr, 10);      
+        $fp = fsockopen(env("SERVERIP", "127.0.0.1"), 5038, $errno, $errstr, 10);      
 
         /**
          * If error
